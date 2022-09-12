@@ -1,0 +1,10 @@
+{
+    "title" : "Sign In",
+    "description": "Welcome to Multiapoyo dev challenge",
+    "email": "Email",
+    "password": "password",
+    "submit" : "Sign In",
+    "forgot": "Forgot your password?",
+    "usernameRequired": "Username is required",
+    "passswordRequired": "Password is required"
+}

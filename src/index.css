@@ -1,0 +1,21 @@
+:root{
+  --login-bg-color: #2980b9;
+  --login-color : #ffff;
+  --font-color: #bdc3c7;
+  --font-title-color:#95a5a6;
+  --error-color:#c0392b;
+  --btn-primary:#2c3e50;
+  --font-size:1rem
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 62.5%;
+  font-family: 'Montserrat';
+  background:#ecf0f1 ;
+}
